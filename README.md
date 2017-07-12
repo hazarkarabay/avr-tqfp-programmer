@@ -1,6 +1,8 @@
 Program TQFP AVR's easily without soldering
 =====================
 
+[![Moving image!](https://img.youtube.com/vi/9b8XTmfmTiI/0.jpg)](https://www.youtube.com/watch?v=9b8XTmfmTiI)
+
 So, you designed a board that incorporates a SMD AVR and forgot to break out ISP pins. How you gonna upload your code/(if you have serial pins available)bootloader on your microcontroller?
 
 This was my problem. Instead of adding test points to relevant signals, reordering PCBs and messing with pogo pins, I preprogrammed the chips using a TQFP adapter. Here's how I do it.
