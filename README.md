@@ -41,3 +41,6 @@ http://eleccelerator.com/fusecalc/fusecalc.php?chip=atmega328p&LOW=FF&HIGH=DE&EX
 
 ### Batch file
 I have a batch file to speed up programming multiple AVR's in order. You can see it working on my video. It is very basic, only has a loop and a counter. It serves to my needs and you should customize it if your needs is different. Note that it can't work out of the box, at least the paths needs to be changed.
+
+### 3D-Printed Case
+A simple 3d-printed case: https://www.thingiverse.com/thing:4529554
